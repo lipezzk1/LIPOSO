@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 CLUBES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 1 CLUBES FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148501
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE 1 CLUBES H265" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 1 CLUBES H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/150348
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE 1 CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 1 CLUBES HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103896
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 CLUBES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 1 CLUBES SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148503
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 2 FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148483
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 H265" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 2 H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/150342
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 2 HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103872
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 2 SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148485
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 3 FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148486
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 H265" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 3 H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/150343
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 3 HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103876
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 3 SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148488
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD" tvg-logo="http://dns.35504141.xyz:2082/images/cbL20dD2J1MTTyn8J4L0lR0qs-p89ImrsHvQcNluNVHSrvL7PjkEp0ch8wZq_XXk_LA2yJcFK09vsvnkw27DgHNyp5KgQbkOhyaxtUcsPdg.png" group-title="CANAIS I PREMIERE",PREMIERE 4 FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148489
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 H265" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 4 H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/150344
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 4 HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103880
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 4 SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148491
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 5 FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148492
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 H265" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 5 H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/150345
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 5 HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103884
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 5 SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148494
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 6 FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148495
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 H265" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 6 H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/150346
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 6 HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103888
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 6 SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148497
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 7 FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148498
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 H265" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 7 H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/150347
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 7 HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103892
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 7 SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148500
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS I PREMIERE",PREMIERE 8
+http://dns.35504141.xyz:2082/Rafael/Rafael123/161082
