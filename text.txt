@@ -1,167 +1,87 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S07 E12" tvg-logo="http://vraws.com:8080/images/df007329f7f5f38339d8663ba0e75233.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S07 E12
-http://jamboso.com:80/series/thiago102021/10thiago21/1064679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S07 E13" tvg-logo="http://vraws.com:8080/images/f74ecc9bed034384760e7214c20604ad.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S07 E13
-http://jamboso.com:80/series/thiago102021/10thiago21/1064681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S07 E14" tvg-logo="http://vraws.com:8080/images/7359ab2d6e0adfec2993c04bbc406f44.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S07 E14
-http://jamboso.com:80/series/thiago102021/10thiago21/1064683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S07 E15" tvg-logo="http://vraws.com:8080/images/306069f4ac8adb734e5d5bfdcc0349fc.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S07 E15
-http://jamboso.com:80/series/thiago102021/10thiago21/1064685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S07 E16" tvg-logo="http://vraws.com:8080/images/8db1d401db034ce1de3c807df6f6ec43.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S07 E16
-http://jamboso.com:80/series/thiago102021/10thiago21/1064687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E01" tvg-logo="http://vraws.com:8080/images/d1f224a006ee3e11e13c0f03e98edefa.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E01
-http://jamboso.com:80/series/thiago102021/10thiago21/1064689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E02" tvg-logo="http://vraws.com:8080/images/9501fd61e9ee5e3f825167c24f88c349.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E02
-http://jamboso.com:80/series/thiago102021/10thiago21/1064691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E03" tvg-logo="http://vraws.com:8080/images/8d7e319b55a8606dc580a3da2af4f61e.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E03
-http://jamboso.com:80/series/thiago102021/10thiago21/1064693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E04" tvg-logo="http://vraws.com:8080/images/a09e4ab2ec96158b3bb804ac1e79497d.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E04
-http://jamboso.com:80/series/thiago102021/10thiago21/1064695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E05" tvg-logo="http://vraws.com:8080/images/36dc557b0e9cef2ff2608f74198786b9.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E05
-http://jamboso.com:80/series/thiago102021/10thiago21/1064697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E06" tvg-logo="http://vraws.com:8080/images/a3edcc62bc0b691c7140a8cfb1f6f696.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E06
-http://jamboso.com:80/series/thiago102021/10thiago21/1064699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E07" tvg-logo="http://vraws.com:8080/images/b23c6463cbda50db34ace608bb24024a.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E07
-http://jamboso.com:80/series/thiago102021/10thiago21/1064701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E08" tvg-logo="http://vraws.com:8080/images/fd1cfbf686b2ce79bb3dd6b0d1774deb.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E08
-http://jamboso.com:80/series/thiago102021/10thiago21/1064703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E09" tvg-logo="http://vraws.com:8080/images/d53bd5865d225f8c93525f9e6c259df1.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E09
-http://jamboso.com:80/series/thiago102021/10thiago21/1064705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E10" tvg-logo="http://vraws.com:8080/images/bd2fa4103032dbd7726ac1621ce2157b.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E10
-http://jamboso.com:80/series/thiago102021/10thiago21/1064707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E11" tvg-logo="http://vraws.com:8080/images/376cbf4d6d16fe10a83f36bd90a9d25a.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E11
-http://jamboso.com:80/series/thiago102021/10thiago21/1064708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E12" tvg-logo="http://vraws.com:8080/images/62db984a01ccb825f3b2c44035dc7621.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E12
-http://jamboso.com:80/series/thiago102021/10thiago21/1064710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E13" tvg-logo="http://vraws.com:8080/images/2f7c1f07e77bcb578416b71c05a667f3.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E13
-http://jamboso.com:80/series/thiago102021/10thiago21/1064712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E14" tvg-logo="http://vraws.com:8080/images/8f999fe0bb325e53ffa973d1c8c94edc.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E14
-http://jamboso.com:80/series/thiago102021/10thiago21/1064714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E15" tvg-logo="http://vraws.com:8080/images/de795d3a1d02a941b111bbb7601260e7.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E15
-http://jamboso.com:80/series/thiago102021/10thiago21/1064716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S08 E16" tvg-logo="http://vraws.com:8080/images/c0c395286973597b281e5c128c332dcc.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S08 E16
-http://jamboso.com:80/series/thiago102021/10thiago21/1064718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E01" tvg-logo="http://vraws.com:8080/images/21eca36737c780ae2efb5230a0eaaa68.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E01
-http://jamboso.com:80/series/thiago102021/10thiago21/1064720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E02" tvg-logo="http://vraws.com:8080/images/3cdb13f31fc6a8648c8c2b77d18c5d6c.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E02
-http://jamboso.com:80/series/thiago102021/10thiago21/1064722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E03" tvg-logo="http://vraws.com:8080/images/b99ddb4277f716a99b027f256a1f91ed.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E03
-http://jamboso.com:80/series/thiago102021/10thiago21/1064724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E04" tvg-logo="http://vraws.com:8080/images/988bbaf022896b80c5737548d58b5d13.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E04
-http://jamboso.com:80/series/thiago102021/10thiago21/1064726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E05" tvg-logo="http://vraws.com:8080/images/3245bca1d3905c5947e65a12cc20f5e4.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E05
-http://jamboso.com:80/series/thiago102021/10thiago21/1064728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E06" tvg-logo="http://vraws.com:8080/images/b6bd86f0415995d10b36511b2f18aff4.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E06
-http://jamboso.com:80/series/thiago102021/10thiago21/1064730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E07" tvg-logo="http://vraws.com:8080/images/28c3825a895f8e3b2c8a76e252248c2e.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E07
-http://jamboso.com:80/series/thiago102021/10thiago21/1064732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E08" tvg-logo="http://vraws.com:8080/images/3ef54b31226d3bceb62f2260dbc019c4.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E08
-http://jamboso.com:80/series/thiago102021/10thiago21/1064734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E09" tvg-logo="http://vraws.com:8080/images/13bee6aeb49d29873074a46692298eb1.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E09
-http://jamboso.com:80/series/thiago102021/10thiago21/1064736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E10" tvg-logo="http://vraws.com:8080/images/6a00e3743dd78952586dbe61bee492f7.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E10
-http://jamboso.com:80/series/thiago102021/10thiago21/1064738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E11" tvg-logo="http://vraws.com:8080/images/5d024dfbe49b607dfdfcab8f182aeba5.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E11
-http://jamboso.com:80/series/thiago102021/10thiago21/1064740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E12" tvg-logo="http://vraws.com:8080/images/5a0a2991644a0010b7fb8df2f8c21867.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E12
-http://jamboso.com:80/series/thiago102021/10thiago21/1064742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E13" tvg-logo="http://vraws.com:8080/images/399ac0a108dab9255722a0acfef9d27f.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E13
-http://jamboso.com:80/series/thiago102021/10thiago21/1064744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E14" tvg-logo="http://vraws.com:8080/images/a9aa4f5deab12348974d0a4ee47b9490.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E14
-http://jamboso.com:80/series/thiago102021/10thiago21/1064746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E15" tvg-logo="http://vraws.com:8080/images/1282ec7ab0b304b41fd8bb2f7b28441e.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E15
-http://jamboso.com:80/series/thiago102021/10thiago21/1064748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S09 E16" tvg-logo="http://vraws.com:8080/images/475faf0a307392796633236f61c21dfa.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S09 E16
-http://jamboso.com:80/series/thiago102021/10thiago21/1064750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E01" tvg-logo="http://vraws.com:8080/images/1ce126a77f2f0e5bce37f6a6fdcb4715.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E01
-http://jamboso.com:80/series/thiago102021/10thiago21/1064752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E02" tvg-logo="http://vraws.com:8080/images/ae6669b7c19f7f225d4c07178f988f2a.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E02
-http://jamboso.com:80/series/thiago102021/10thiago21/1064754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E03" tvg-logo="http://vraws.com:8080/images/b475082e6aa49637bda2b1a4983c5e76.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E03
-http://jamboso.com:80/series/thiago102021/10thiago21/1064756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E04" tvg-logo="http://vraws.com:8080/images/d020ef37a9726e20ddc110e87961b508.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E04
-http://jamboso.com:80/series/thiago102021/10thiago21/1064758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E05" tvg-logo="http://vraws.com:8080/images/fb41dce813dd63743922653fdfd006db.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E05
-http://jamboso.com:80/series/thiago102021/10thiago21/1064760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E06" tvg-logo="http://vraws.com:8080/images/06e6de9c807b0690afc774bfd8a30fa9.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E06
-http://jamboso.com:80/series/thiago102021/10thiago21/1064762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E07" tvg-logo="http://vraws.com:8080/images/b15e540251ada00ae72190f974049d90.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E07
-http://jamboso.com:80/series/thiago102021/10thiago21/1064764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E08" tvg-logo="http://vraws.com:8080/images/196cbf0a986dd4c47b57115d35cb812e.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E08
-http://jamboso.com:80/series/thiago102021/10thiago21/1064766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E09" tvg-logo="http://vraws.com:8080/images/a12b95b5be33ef52d095df90cccb9985.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E09
-http://jamboso.com:80/series/thiago102021/10thiago21/1064768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E10" tvg-logo="http://vraws.com:8080/images/1be7d37cb63b9000403eef6f8bff26ec.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E10
-http://jamboso.com:80/series/thiago102021/10thiago21/1064770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E11" tvg-logo="http://vraws.com:8080/images/3a30c90600200a6bca0c76e3d1d08348.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E11
-http://jamboso.com:80/series/thiago102021/10thiago21/1064772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E12" tvg-logo="http://vraws.com:8080/images/678b87ba882e599317fb0048fd14a9e9.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E12
-http://jamboso.com:80/series/thiago102021/10thiago21/1064774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E13" tvg-logo="http://vraws.com:8080/images/695721f364b878ad96b05b728b4c049e.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E13
-http://jamboso.com:80/series/thiago102021/10thiago21/1064776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E14" tvg-logo="http://vraws.com:8080/images/37f9891b8b3ff26ddf1167f515d59fb8.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E14
-http://jamboso.com:80/series/thiago102021/10thiago21/1064778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E15" tvg-logo="http://vraws.com:8080/images/500aa275a10aa1d6560391a64ffb8bdb.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E15
-http://jamboso.com:80/series/thiago102021/10thiago21/1064780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E16" tvg-logo="http://vraws.com:8080/images/f560fc53d80c1b3f5dbb7beb6f40772f.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E16
-http://jamboso.com:80/series/thiago102021/10thiago21/1064782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E17" tvg-logo="http://vraws.com:8080/images/a6f9267172dc40f3640a51e8ce99d298.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E17
-http://jamboso.com:80/series/thiago102021/10thiago21/1064784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E18" tvg-logo="http://vraws.com:8080/images/2a2cf524ffe88a3e5287a7520b6ec0e1.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E18
-http://jamboso.com:80/series/thiago102021/10thiago21/1064785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E19" tvg-logo="http://vraws.com:8080/images/ef47fa1a890717994da33637ed5421fc.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E19
-http://jamboso.com:80/series/thiago102021/10thiago21/1064787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E20" tvg-logo="http://vraws.com:8080/images/ae60d5ce2525a851693225cd613354ba.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E20
-http://jamboso.com:80/series/thiago102021/10thiago21/1064789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E21" tvg-logo="http://vraws.com:8080/images/74e6ea13e94ede70d21d1b531e75912a.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E21
-http://jamboso.com:80/series/thiago102021/10thiago21/1064791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E22" tvg-logo="http://vraws.com:8080/images/ad85fef09e39dc8eaa51739675365e9b.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S10 E22
-http://jamboso.com:80/series/thiago102021/10thiago21/1064793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E01" tvg-logo="http://vraws.com:8080/images/680f8eaa34cf0e19eab437850169e8b3.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E01
-http://jamboso.com:80/series/thiago102021/10thiago21/1064795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E02" tvg-logo="http://vraws.com:8080/images/9aba5271d8338305bdded9a46d316b30.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E02
-http://jamboso.com:80/series/thiago102021/10thiago21/1064797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E03" tvg-logo="http://vraws.com:8080/images/2a8c330d6fb8d283239e42ccc19abdc6.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E03
-http://jamboso.com:80/series/thiago102021/10thiago21/1064799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E04" tvg-logo="http://vraws.com:8080/images/9612c7e0afae09f2c90caf703cf72bfe.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E04
-http://jamboso.com:80/series/thiago102021/10thiago21/1064802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E05" tvg-logo="http://vraws.com:8080/images/9505e49705b460513ff14e690d51bca1.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E05
-http://jamboso.com:80/series/thiago102021/10thiago21/1064803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E06" tvg-logo="http://vraws.com:8080/images/3351466c8ae05065917f0a266942fe14.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E06
-http://jamboso.com:80/series/thiago102021/10thiago21/1064805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E07" tvg-logo="http://vraws.com:8080/images/7514ae56a83c65575614f158b4ad7d2c.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E07
-http://jamboso.com:80/series/thiago102021/10thiago21/1064807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E08" tvg-logo="http://vraws.com:8080/images/04a6d2fa5aa9e724f419c78b3f2125a6.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E08
-http://jamboso.com:80/series/thiago102021/10thiago21/1064809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E09" tvg-logo="http://vraws.com:8080/images/5a683bcc1a657a23f7410fd3b1f0bfbc.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E09
-http://jamboso.com:80/series/thiago102021/10thiago21/1064811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E10" tvg-logo="http://vraws.com:8080/images/35049d23a4ce49a702d06116fccc8117.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E10
-http://jamboso.com:80/series/thiago102021/10thiago21/1064813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E11" tvg-logo="http://vraws.com:8080/images/259baaf79a9331fc4dd935dc9ef3ca99.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E11
-http://jamboso.com:80/series/thiago102021/10thiago21/1064815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E12" tvg-logo="http://vraws.com:8080/images/f9cdaacb690bf694169b4da2e83f3525.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E12
-http://jamboso.com:80/series/thiago102021/10thiago21/1064817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E13" tvg-logo="http://vraws.com:8080/images/3806ff9eccd681aa086bb2137b4dfb5a.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E13
-http://jamboso.com:80/series/thiago102021/10thiago21/1064819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E14" tvg-logo="http://vraws.com:8080/images/9bca07439a011cc294395bf56d1a2fad.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E14
-http://jamboso.com:80/series/thiago102021/10thiago21/1064821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E15" tvg-logo="http://vraws.com:8080/images/22c75c52365025156ca058bb7dc3431b.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E15
-http://jamboso.com:80/series/thiago102021/10thiago21/1064823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E16" tvg-logo="http://vraws.com:8080/images/3cdb0ab543596adae6bcb5054e36d6d1.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E16
-http://jamboso.com:80/series/thiago102021/10thiago21/1064825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E17" tvg-logo="http://vraws.com:8080/images/c00ef86f1896b95a8ccf9746a15f9ea9.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E17
-http://jamboso.com:80/series/thiago102021/10thiago21/1064827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E18" tvg-logo="http://vraws.com:8080/images/1380282388799362ed80993753216019.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E18
-http://jamboso.com:80/series/thiago102021/10thiago21/1064829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E19" tvg-logo="http://vraws.com:8080/images/d9e00660a44b1c0598992ab9e5209dd5.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E19
-http://jamboso.com:80/series/thiago102021/10thiago21/1064831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E20" tvg-logo="http://vraws.com:8080/images/0c2e4107244e3b3cacdbcb0492e049d9.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E20
-http://jamboso.com:80/series/thiago102021/10thiago21/1064833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E21" tvg-logo="http://vraws.com:8080/images/8a76262b395be766d9195a3911c0f9b6.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E21
-http://jamboso.com:80/series/thiago102021/10thiago21/1064835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E22" tvg-logo="http://vraws.com:8080/images/20b2acc0171dc3a2f9565a6f286facce.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E22
-http://jamboso.com:80/series/thiago102021/10thiago21/1064837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E23" tvg-logo="http://vraws.com:8080/images/c76140ca5097718afff75d26d3857103.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E23
-http://jamboso.com:80/series/thiago102021/10thiago21/1064839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E24" tvg-logo="http://vraws.com:8080/images/618f9db87b10161440ba899baad2fbce.jpg" group-title="SERIES | FICCAO E FANTASIA",The Walking Dead S11 E24
-http://jamboso.com:80/series/thiago102021/10thiago21/1064841.mp4
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | 4K - H265",Premiere 1 Clubes 4K
+http://tucxs.click:80/trK4fe/5g9zsm/151037
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes FHD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD
+http://tucxs.click:80/trK4fe/5g9zsm/83813
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes FHD [Alt]" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147633
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | 4K - H265",Premiere 1 Clubes FHD [H265]
+http://tucxs.click:80/trK4fe/5g9zsm/83405
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes HD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes HD
+http://tucxs.click:80/trK4fe/5g9zsm/83251
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes HD [Alt]" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes HD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147634
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes SD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes SD
+http://tucxs.click:80/trK4fe/5g9zsm/83601
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 FHD" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 FHD
+http://tucxs.click:80/trK4fe/5g9zsm/87323
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 FHD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147635
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | 4K - H265",Premiere 2 FHD [H265]
+http://tucxs.click:80/trK4fe/5g9zsm/83406
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 HD" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 HD
+http://tucxs.click:80/trK4fe/5g9zsm/83245
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 HD [Alt]" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 HD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147636
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 SD" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 SD
+http://tucxs.click:80/trK4fe/5g9zsm/83602
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 FHD" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 FHD
+http://tucxs.click:80/trK4fe/5g9zsm/87321
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 FHD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147637
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | 4K - H265",Premiere 3 FHD [H265]
+http://tucxs.click:80/trK4fe/5g9zsm/83407
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 HD" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 HD
+http://tucxs.click:80/trK4fe/5g9zsm/83246
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 HD [Alt]" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 HD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147638
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 SD" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 SD
+http://tucxs.click:80/trK4fe/5g9zsm/83603
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 FHD" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 FHD
+http://tucxs.click:80/trK4fe/5g9zsm/87320
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 FHD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147639
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | 4K - H265",Premiere 4 FHD [H265]
+http://tucxs.click:80/trK4fe/5g9zsm/83408
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 HD" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 HD
+http://tucxs.click:80/trK4fe/5g9zsm/83247
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 HD [Alt]" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 HD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147640
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 SD" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 SD
+http://tucxs.click:80/trK4fe/5g9zsm/83604
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 FHD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 5 FHD
+http://tucxs.click:80/trK4fe/5g9zsm/152926
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | Premiere FC",Premiere 5 FHD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147641
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | 4K - H265",Premiere 5 FHD [H265]
+http://tucxs.click:80/trK4fe/5g9zsm/83409
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 HD" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | Premiere FC",Premiere 5 HD
+http://tucxs.click:80/trK4fe/5g9zsm/83248
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 HD [Alt]" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | Premiere FC",Premiere 5 HD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147642
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 SD" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | Premiere FC",Premiere 5 SD
+http://tucxs.click:80/trK4fe/5g9zsm/83605
+#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 FHD" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 FHD
+http://tucxs.click:80/trK4fe/5g9zsm/87319
+#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 FHD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147643
+#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | 4K - H265",Premiere 6 FHD [H265]
+http://tucxs.click:80/trK4fe/5g9zsm/83410
+#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 HD" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 HD
+http://tucxs.click:80/trK4fe/5g9zsm/83249
+#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 HD [Alt]" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 HD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147644
+#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 SD" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 SD
+http://tucxs.click:80/trK4fe/5g9zsm/83606
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 FHD" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 FHD
+http://tucxs.click:80/trK4fe/5g9zsm/87318
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 FHD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147645
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | 4K - H265",Premiere 7 FHD [H265]
+http://tucxs.click:80/trK4fe/5g9zsm/83411
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 HD" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 HD
+http://tucxs.click:80/trK4fe/5g9zsm/83250
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 HD [Alt]" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 HD [Alt]
+http://tucxs.click:80/trK4fe/5g9zsm/147646
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 SD" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 SD
+http://tucxs.click:80/trK4fe/5g9zsm/83607
