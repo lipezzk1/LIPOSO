@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1200?cb=20190715122226" group-title="CANAIS I HBO",HBO 2 FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148399
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 H265" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1200?cb=20190715122226" group-title="CANAIS I HBO",HBO 2 H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103754
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1200?cb=20190715122226" group-title="CANAIS I HBO",HBO 2 HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103756
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1200?cb=20190715122226" group-title="CANAIS I HBO",HBO 2 SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148401
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/HBO_Family_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113005801" group-title="CANAIS I HBO",HBO FAMILY FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148402
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY H265" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/HBO_Family_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113005801" group-title="CANAIS I HBO",HBO FAMILY H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103758
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/HBO_Family_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113005801" group-title="CANAIS I HBO",HBO FAMILY HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103760
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/HBO_Family_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113005801" group-title="CANAIS I HBO",HBO FAMILY SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148404
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest?cb=20220831182029" group-title="CANAIS I HBO",HBO FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148405
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO H265" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest?cb=20220831182029" group-title="CANAIS I HBO",HBO H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103762
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest?cb=20220831182029" group-title="CANAIS I HBO",HBO HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103764
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO MAIS H265" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest?cb=20220831182029" group-title="CANAIS I HBO",HBO MAIS H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103765
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO MAIS HD" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest?cb=20220831182029" group-title="CANAIS I HBO",HBO MAIS HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103767
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="CANAIS I HBO",HBO MUNDI FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148407
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="CANAIS I HBO",HBO MUNDI H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103772
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="CANAIS I HBO",HBO MUNDI HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103774
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="CANAIS I HBO",HBO MUNDI SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148409
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CANAIS I HBO",HBO POP FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148410
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP H265" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CANAIS I HBO",HBO POP H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103776
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CANAIS I HBO",HBO POP HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103778
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CANAIS I HBO",HBO POP SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148412
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest?cb=20220831182029" group-title="CANAIS I HBO",HBO SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148413
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/HBO_Signature_2000.svg/revision/latest/scale-to-width-down/250?cb=20100323081748" group-title="CANAIS I HBO",HBO SIGNATURE FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148414
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE H265" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/HBO_Signature_2000.svg/revision/latest/scale-to-width-down/250?cb=20100323081748" group-title="CANAIS I HBO",HBO SIGNATURE H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103781
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/HBO_Signature_2000.svg/revision/latest/scale-to-width-down/250?cb=20100323081748" group-title="CANAIS I HBO",HBO SIGNATURE HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103783
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/HBO_Signature_2000.svg/revision/latest/scale-to-width-down/250?cb=20100323081748" group-title="CANAIS I HBO",HBO SIGNATURE SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148416
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS I HBO",HBO XTREME FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148417
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS I HBO",HBO XTREME H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103785
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS I HBO",HBO XTREME HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103787
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS I HBO",HBO XTREME SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148419
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO+ FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group-title="CANAIS I HBO",HBO+ FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148420
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO+ HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group-title="CANAIS I HBO",HBO+ HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148421
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO+ SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group-title="CANAIS I HBO",HBO+ SD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148422
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS I VARIEDADES",HGTV FHD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148424
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS I VARIEDADES",HGTV H265
+http://dns.35504141.xyz:2082/Rafael/Rafael123/103789
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS I VARIEDADES",HGTV HD
+http://dns.35504141.xyz:2082/Rafael/Rafael123/148425
