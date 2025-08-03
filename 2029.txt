@@ -1,0 +1,479 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes%20HD.png" group-title="PREMIERE",Premiere Clubes FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1898
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes%20HD.png" group-title="PREMIERE",Premiere Clubes HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2199
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes.png" group-title="PREMIERE",Premiere Clubes
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2198
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes 4k" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes%20HD.png" group-title="PREMIERE",Premiere Clubes 4k
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1277
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes.png" group-title="PREMIERE",Premiere Clubes Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1163
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1892
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2187
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/904121
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1273
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1157
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1893
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2189
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2188
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1274
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1158
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1894
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2191
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2190
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1275
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1214
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1895
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 HD" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2193
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2192
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1276
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1159
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1896
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2195
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2194
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/7945
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1160
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1897
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2197
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2196
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/7946
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1161
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 8
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/914936
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1904
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2235
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="https://logos.sologos.art/server/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2234
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1903
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2233
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca" tvg-logo="https://logos.sologos.art/server/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2232
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Action.png" group-title="TELECINE",Telecine Action FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1901
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Action.png" group-title="TELECINE",Telecine Action HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2227
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action" tvg-logo="https://logos.sologos.art/server/Telecine%20Action.png" group-title="TELECINE",Telecine Action
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2226
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1905
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2237
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch" tvg-logo="https://logos.sologos.art/server/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2236
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1902
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2231
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun" tvg-logo="https://logos.sologos.art/server/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2230
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1866
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2229
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult" tvg-logo="https://logos.sologos.art/server/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2228
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix FHD" tvg-logo="https://logos.sologos.art/server/Megapix%20HD.png" group-title="TELECINE",Megapix FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1848
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix HD" tvg-logo="https://logos.sologos.art/server/Megapix%20HD.png" group-title="TELECINE",Megapix HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2164
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="https://logos.sologos.art/server/Megapix.png" group-title="TELECINE",Megapix
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2163
+#EXTINF:-1 tvg-id="USA.br" tvg-name="USA FHD" tvg-logo="https://logos.sologos.art/server/Syfy%20HD.png" group-title="TELECINE",USA FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1864
+#EXTINF:-1 tvg-id="USA.br" tvg-name="USA HD" tvg-logo="https://logos.sologos.art/server/Syfy%20HD.png" group-title="TELECINE",USA HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2215
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="USA" tvg-logo="https://logos.sologos.art/server/Syfy.png" group-title="TELECINE",USA
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2214
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV FHD" tvg-logo="https://logos.sologos.art/server/Universal%20TV.png" group-title="TELECINE",Universal TV FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1872
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV HD" tvg-logo="https://logos.sologos.art/server/Universal%20TV.png" group-title="TELECINE",Universal TV HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2258
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV " tvg-logo="https://logos.sologos.art/server/Universal%20TV.png" group-title="TELECINE",Universal TV 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2257
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil FHD" tvg-logo="https://logos.sologos.art/server/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1908
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil HD" tvg-logo="https://logos.sologos.art/server/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2067
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil" tvg-logo="https://logos.sologos.art/server/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2066
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="HBO ",HBO FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1891
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="HBO ",HBO HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2144
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="HBO ",HBO
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2139
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="https://logos.sologos.art/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1890
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD" tvg-logo="https://logos.sologos.art/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2141
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://logos.sologos.art/server/HBO%202.png" group-title="HBO ",HBO 2
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2140
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="HBO ",HBO Plus FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1840
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus HD" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="HBO ",HBO Plus HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2146
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="HBO ",HBO Plus
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2145
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Family%20HD.png" group-title="HBO ",HBO Family FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1839
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family HD" tvg-logo="https://logos.sologos.art/server/HBO%20Family%20HD.png" group-title="HBO ",HBO Family HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2143
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://logos.sologos.art/server/HBO%20Family.png" group-title="HBO ",HBO Family
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2142
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Signature%20HD.png" group-title="HBO ",HBO Signature FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1841
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD" tvg-logo="https://logos.sologos.art/server/HBO%20Signature%20HD.png" group-title="HBO ",HBO Signature HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2148
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="https://logos.sologos.art/server/HBO%20Signature.png" group-title="HBO ",HBO Signature
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2147
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1845
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2158
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2157
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1202
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="HBO ",HBO POP FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1847
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP HD" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="HBO ",HBO POP HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2162
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="HBO ",HBO POP
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2161
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1846
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2160
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2159
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="https://logos.sologos.art/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1807
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://logos.sologos.art/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2048
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="https://logos.sologos.art/server/AMC.png" group-title="FILMES & SERIES",AMC
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2047
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://logos.sologos.art/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1810
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://logos.sologos.art/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2054
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://logos.sologos.art/server/AXN.png" group-title="FILMES & SERIES",AXN
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2053
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD LEG" tvg-logo="https://logos.sologos.art/server/AXN%20HD.png" group-title="LEGENDADOS",AXN FHD LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/24778
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="https://logos.sologos.art/server/TNT%20HD.png" group-title="FILMES & SERIES",TNT FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1868
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://logos.sologos.art/server/TNT%20HD.png" group-title="FILMES & SERIES",TNT HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2242
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://logos.sologos.art/server/TNT.png" group-title="FILMES & SERIES",TNT
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2241
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo HD" tvg-logo="https://logos.sologos.art/server/TNT%20HD.png" group-title="FILMES & SERIES",TNT Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1283
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo" tvg-logo="https://logos.sologos.art/server/TNT.png" group-title="FILMES & SERIES",TNT Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1234
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT LEG" tvg-logo="https://logos.sologos.art/server/TNT.png" group-title="LEGENDADOS",TNT LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901860
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 1" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 1
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/40623
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 2
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/40624
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 3" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 3
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/40625
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 4" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 4
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/40626
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 5
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/40627
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 6" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 6
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/40628
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 7" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 7
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/40629
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 8" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 8
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/40630
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 9" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 9
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/896436
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 10
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/896437
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://logos.sologos.art/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1816
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://logos.sologos.art/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2074
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="https://logos.sologos.art/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2073
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD LEG" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="LEGENDADOS",HBO FHD LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/24781
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO LEG" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="LEGENDADOS",HBO LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901855
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi HD LEG " tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="LEGENDADOS",HBO Mundi HD LEG 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2344
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="LEGENDADOS",HBO Mundi LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901856
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="LEGENDADOS",HBO Plus LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901865
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="LEGENDADOS",HBO POP LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2360
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Signature.png" group-title="LEGENDADOS",HBO Signature LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901857
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="LEGENDADOS",HBO Xtreme LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901858
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix LEG" tvg-logo="https://logos.sologos.art/server/Megapix.png" group-title="LEGENDADOS",Megapix LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2362
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel" tvg-logo="https://logos.sologos.art/server/Paramount%20Channel.png" group-title="FILMES & SERIES",Paramount Channel
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2184
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="https://logos.sologos.art/server/Paramount%20Channel.png" group-title="FILMES & SERIES",Paramount Channel FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1859
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="https://logos.sologos.art/server/Paramount%20Channel.png" group-title="FILMES & SERIES",Paramount Channel HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2185
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network" tvg-logo="https://logos.sologos.art/server/Paramount%20Network.png" group-title="FILMES & SERIES",Paramount Network
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901883
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network FHD" tvg-logo="https://logos.sologos.art/server/Paramount%20Network.png" group-title="FILMES & SERIES",Paramount Network FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901881
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network HD" tvg-logo="https://logos.sologos.art/server/Paramount%20Network.png" group-title="FILMES & SERIES",Paramount Network HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901882
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel FHD" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1814
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2069
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2068
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel LEG" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="LEGENDADOS",Sony Channel LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901854
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD" tvg-logo="https://logos.sologos.art/server/Space%20HD.png" group-title="FILMES & SERIES",Space FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1862
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://logos.sologos.art/server/Space%20HD.png" group-title="FILMES & SERIES",Space HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2217
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="https://logos.sologos.art/server/Space.png" group-title="FILMES & SERIES",Space
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2216
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space LEG" tvg-logo="https://logos.sologos.art/server/Space.png" group-title="LEGENDADOS",Space LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901859
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal" tvg-logo="https://logos.sologos.art/server/Studio%20Universal.png" group-title="FILMES & SERIES",Studio Universal
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2221
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="https://logos.sologos.art/server/Studio%20Universal%20HD.png" group-title="FILMES & SERIES",Studio Universal FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1863
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="https://logos.sologos.art/server/Studio%20Universal%20HD.png" group-title="FILMES & SERIES",Studio Universal HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2222
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD " tvg-logo="https://logos.sologos.art/server/TCM.png" group-title="FILMES & SERIES",TCM FHD 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/47726
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES & SERIES",TCM
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2225
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Action.png" group-title="LEGENDADOS",Telecine Action LEG
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2346
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Super Choque" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/CAzxjYTUQoq2jeUnn0z6BugdIP.jpg" group-title="DESENHOS 24H",[24h] Super Choque
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242350
+#EXTINF:-1 tvg-id="" tvg-name="[24h] South Park S21-S26" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="DESENHOS 24H",[24h] South Park S21-S26
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242348
+#EXTINF:-1 tvg-id="" tvg-name="[24h] South Park S16-S20" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="DESENHOS 24H",[24h] South Park S16-S20
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242347
+#EXTINF:-1 tvg-id="" tvg-name="[24h] South Park S11-S15" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="DESENHOS 24H",[24h] South Park S11-S15
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242346
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Simpsons S10-S18" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="DESENHOS 24H",[24h] Os Simpsons S10-S18
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242314
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Simpsons S01-S09" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="DESENHOS 24H",[24h] Os Simpsons S01-S09
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242313
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Jetsons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4jpNQBhVcUfSS7MkrEwaNjZlHJj.jpg" group-title="DESENHOS 24H",[24h] Os Jetsons
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242312
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Flintstones" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8jT1ZpG1ybQyLmYMfgpvTaJLrS0.jpg" group-title="DESENHOS 24H",[24h] Os Flintstones
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242311
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Cavaleiros do Zodíaco: The Lost Canvas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2KFlvSkrPVj64PGDzdCYPTiTiMg.jpg" group-title="DESENHOS 24H",[24h] Os Cavaleiros do Zodíaco: The Lost Canvas
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242310
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Futurama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sdJcX2cXirwQurLLlrDLYov7hcD.jpg" group-title="DESENHOS 24H",[24h] Futurama
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242268
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Freakazoid: Alto Forte e Maluco" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg" group-title="DESENHOS 24H",[24h] Freakazoid: Alto Forte e Maluco
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242266
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Em que lugar da Terra está Carmen Sandiego" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fhTM59RBy1W6d5lGWHVpJ2BHsSy.jpg" group-title="DESENHOS 24H",[24h] Em que lugar da Terra está Carmen Sandiego
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242261
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Du, Dudu e Edu" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" group-title="DESENHOS 24H",[24h] Du, Dudu e Edu
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242260
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball Super" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9gzkpjs6N7Xxo1CnnJqhFtmYCez.jpg" group-title="DESENHOS 24H",[24h] Dragon Ball Super
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242258
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball Z Kai Sayajin" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uAZmpZY9oCRgJ06f342sagwdjYL.jpg" group-title="DESENHOS 24H",[24h] Dragon Ball Z Kai Sayajin
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242257
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Chaves Em Desenho Animado S04-S05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gIApIbyHEb3UcoxbHtbgqtXbHbq.jpg" group-title="DESENHOS 24H",[24h] Chaves Em Desenho Animado S04-S05
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242232
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV FHD" tvg-logo="https://logos.sologos.art/server/SporTV.png" group-title="ESPORTES",SporTV FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2035
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV HD" tvg-logo="https://logos.sologos.art/server/SporTV.png" group-title="ESPORTES",SporTV HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2038
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV" tvg-logo="https://logos.sologos.art/server/SporTV.png" group-title="ESPORTES",SporTV
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2218
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV FHD²" tvg-logo="https://logos.sologos.art/server/SporTV.png" group-title="ESPORTES",SporTV FHD²
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/13069
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV Alternativo HD" tvg-logo="https://logos.sologos.art/server/SporTV.png" group-title="ESPORTES",SporTV Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1303
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV Alternativo" tvg-logo="https://logos.sologos.art/server/SporTV.png" group-title="ESPORTES",SporTV Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1221
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SporTV 2 FHD" tvg-logo="https://logos.sologos.art/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1917
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SporTV 2 HD" tvg-logo="https://logos.sologos.art/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2036
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="https://logos.sologos.art/server/SporTV%202.png" group-title="ESPORTES",SporTV 2
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2219
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SporTV 2 FHD²" tvg-logo="https://logos.sologos.art/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 FHD²
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/13072
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 Alternativo HD" tvg-logo="https://logos.sologos.art/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1301
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 Alternativo" tvg-logo="https://logos.sologos.art/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1173
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SporTV 3 FHD" tvg-logo="https://logos.sologos.art/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1918
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SporTV 3 HD" tvg-logo="https://logos.sologos.art/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2037
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="https://logos.sologos.art/server/SporTV%203.png" group-title="ESPORTES",SporTV 3
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2220
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SporTV 3 FHD²" tvg-logo="https://logos.sologos.art/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 FHD²
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/13075
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 Alternativo  HD" tvg-logo="https://logos.sologos.art/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 Alternativo  HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1302
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 Alternativo" tvg-logo="https://logos.sologos.art/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1174
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN FHD " tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN FHD 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1883
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2105
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil.png" group-title="ESPN",ESPN
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2104
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN FHD²
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/13087
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1294
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Alternativo " tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil.png" group-title="ESPN",ESPN Alternativo 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1193
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD " tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 FHD 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1887
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD " tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 HD 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2122
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2121
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 FHD²
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/13078
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1295
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 Alternativo" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1136
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 2 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1884
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 2 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2108
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn 2" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",Espn 2
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2101
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%202.png" group-title="ESPN",ESPN 2 FHD²
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/13090
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 2 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1311
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1130
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 FHD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1827
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2103
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2102
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 3 FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN 3 FHD²
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/13084
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1293
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1192
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1886
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2124
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2123
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 FHD²
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/13081
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1314
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 Alternativo" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1135
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 1 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901876
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 1 HD 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/898826
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 1
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/898822
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 2 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901877
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 2 HD 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/898827
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 2
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/898823
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 3 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901878
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 3 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/898828
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 3
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/898824
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 4 FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901880
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 4 HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/901879
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 4 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/898825
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ HD" tvg-logo="https://logos.sologos.art/server/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1942
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP FHD" tvg-logo="https://logos.sologos.art/server/SBT.png" group-title="SBT",SBT SP FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1900
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP HD" tvg-logo="https://logos.sologos.art/server/SBT.png" group-title="SBT",SBT SP HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2212
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP " tvg-logo="https://logos.sologos.art/server/SBT.png" group-title="SBT",SBT SP 
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2211
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP Alternativo HD" tvg-logo="https://logos.sologos.art/server/SBT.png" group-title="SBT",SBT SP Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1324
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP FHD" tvg-logo="https://logos.sologos.art/server/Record.png" group-title="RECORD",Record SP FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2371
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP HD" tvg-logo="https://logos.sologos.art/server/Record.png" group-title="RECORD",Record SP HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2206
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP" tvg-logo="https://logos.sologos.art/server/Record.png" group-title="RECORD",Record SP
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1899
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP HD2" tvg-logo="https://logos.sologos.art/server/Record.png" group-title="RECORD",Record SP HD2
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2203
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP2" tvg-logo="https://logos.sologos.art/server/Record.png" group-title="RECORD",Record SP2
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2202
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP Alternativo HD" tvg-logo="https://logos.sologos.art/server/Record.png" group-title="RECORD",Record SP Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1278
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP FHD" tvg-logo="https://logos.sologos.art/server/Band%20HD.png" group-title="BAND",Band SP FHD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1878
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP HD" tvg-logo="https://logos.sologos.art/server/Band%20HD.png" group-title="BAND",Band SP HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2056
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP" tvg-logo="https://logos.sologos.art/server/Band.png" group-title="BAND",Band SP
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/2055
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP Alternativo HD" tvg-logo="https://logos.sologos.art/server/Band%20HD.png" group-title="BAND",Band SP Alternativo HD
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1268
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP Alternativo" tvg-logo="https://logos.sologos.art/server/Band.png" group-title="BAND",Band SP Alternativo
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1179
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Três Espiãs Demais" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5z5NiXdx7z30ZLzthaEyjY6asvF.jpg" group-title="DESENHOS 24H",[24h] Três Espiãs Demais
+http://omelhor.sucodefruta.xyz:8080/Andre9191/An6585dre/1242367
