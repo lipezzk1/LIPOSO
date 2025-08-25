@@ -1,0 +1,925 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ HD" tvg-logo="https://logos.sologos.art/server/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1942
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ Alternativo HD" tvg-logo="https://logos.sologos.art/server/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2617
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1904
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2235
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="https://logos.sologos.art/server/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium
+http://bananadoce.online:8080/baianopresente/723loweA77B/2234
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1903
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2233
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca" tvg-logo="https://logos.sologos.art/server/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca
+http://bananadoce.online:8080/baianopresente/723loweA77B/2232
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Action.png" group-title="TELECINE",Telecine Action FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1901
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Action.png" group-title="TELECINE",Telecine Action HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2227
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action" tvg-logo="https://logos.sologos.art/server/Telecine%20Action.png" group-title="TELECINE",Telecine Action
+http://bananadoce.online:8080/baianopresente/723loweA77B/2226
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1905
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2237
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch" tvg-logo="https://logos.sologos.art/server/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch
+http://bananadoce.online:8080/baianopresente/723loweA77B/2236
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1902
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2231
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun" tvg-logo="https://logos.sologos.art/server/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun
+http://bananadoce.online:8080/baianopresente/723loweA77B/2230
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult FHD" tvg-logo="https://logos.sologos.art/server/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1866
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult HD" tvg-logo="https://logos.sologos.art/server/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2229
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult" tvg-logo="https://logos.sologos.art/server/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult
+http://bananadoce.online:8080/baianopresente/723loweA77B/2228
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix FHD" tvg-logo="https://logos.sologos.art/server/Megapix%20HD.png" group-title="TELECINE",Megapix FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1848
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix HD" tvg-logo="https://logos.sologos.art/server/Megapix%20HD.png" group-title="TELECINE",Megapix HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2164
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="https://logos.sologos.art/server/Megapix.png" group-title="TELECINE",Megapix
+http://bananadoce.online:8080/baianopresente/723loweA77B/2163
+#EXTINF:-1 tvg-id="USA.br" tvg-name="USA FHD" tvg-logo="https://logos.sologos.art/server/Syfy%20HD.png" group-title="TELECINE",USA FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1864
+#EXTINF:-1 tvg-id="USA.br" tvg-name="USA HD" tvg-logo="https://logos.sologos.art/server/Syfy%20HD.png" group-title="TELECINE",USA HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2215
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="USA" tvg-logo="https://logos.sologos.art/server/Syfy.png" group-title="TELECINE",USA
+http://bananadoce.online:8080/baianopresente/723loweA77B/2214
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV FHD" tvg-logo="https://logos.sologos.art/server/Universal%20TV.png" group-title="TELECINE",Universal TV FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1872
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV HD" tvg-logo="https://logos.sologos.art/server/Universal%20TV.png" group-title="TELECINE",Universal TV HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2258
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV " tvg-logo="https://logos.sologos.art/server/Universal%20TV.png" group-title="TELECINE",Universal TV 
+http://bananadoce.online:8080/baianopresente/723loweA77B/2257
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil FHD" tvg-logo="https://logos.sologos.art/server/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1908
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil HD" tvg-logo="https://logos.sologos.art/server/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2067
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil" tvg-logo="https://logos.sologos.art/server/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil
+http://bananadoce.online:8080/baianopresente/723loweA77B/2066
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="HBO ",HBO FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1891
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="HBO ",HBO HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2144
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="HBO ",HBO
+http://bananadoce.online:8080/baianopresente/723loweA77B/2139
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="https://logos.sologos.art/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1890
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD" tvg-logo="https://logos.sologos.art/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2141
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://logos.sologos.art/server/HBO%202.png" group-title="HBO ",HBO 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/2140
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="HBO ",HBO Plus FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1840
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus HD" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="HBO ",HBO Plus HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2146
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="HBO ",HBO Plus
+http://bananadoce.online:8080/baianopresente/723loweA77B/2145
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Family%20HD.png" group-title="HBO ",HBO Family FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1839
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family HD" tvg-logo="https://logos.sologos.art/server/HBO%20Family%20HD.png" group-title="HBO ",HBO Family HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2143
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://logos.sologos.art/server/HBO%20Family.png" group-title="HBO ",HBO Family
+http://bananadoce.online:8080/baianopresente/723loweA77B/2142
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Signature%20HD.png" group-title="HBO ",HBO Signature FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1841
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD" tvg-logo="https://logos.sologos.art/server/HBO%20Signature%20HD.png" group-title="HBO ",HBO Signature HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2148
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="https://logos.sologos.art/server/HBO%20Signature.png" group-title="HBO ",HBO Signature
+http://bananadoce.online:8080/baianopresente/723loweA77B/2147
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1845
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2158
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi
+http://bananadoce.online:8080/baianopresente/723loweA77B/2157
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi
+http://bananadoce.online:8080/baianopresente/723loweA77B/1202
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="HBO ",HBO POP FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1847
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP HD" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="HBO ",HBO POP HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2162
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="HBO ",HBO POP
+http://bananadoce.online:8080/baianopresente/723loweA77B/2161
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1846
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2160
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme
+http://bananadoce.online:8080/baianopresente/723loweA77B/2159
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="https://logos.sologos.art/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1807
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://logos.sologos.art/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2048
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="https://logos.sologos.art/server/AMC.png" group-title="FILMES & SERIES",AMC
+http://bananadoce.online:8080/baianopresente/723loweA77B/2047
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://logos.sologos.art/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1810
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://logos.sologos.art/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2054
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://logos.sologos.art/server/AXN.png" group-title="FILMES & SERIES",AXN
+http://bananadoce.online:8080/baianopresente/723loweA77B/2053
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD LEG" tvg-logo="https://logos.sologos.art/server/AXN%20HD.png" group-title="LEGENDADOS",AXN FHD LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/24778
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="https://logos.sologos.art/server/TNT%20HD.png" group-title="FILMES & SERIES",TNT FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1868
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://logos.sologos.art/server/TNT%20HD.png" group-title="FILMES & SERIES",TNT HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2242
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://logos.sologos.art/server/TNT.png" group-title="FILMES & SERIES",TNT
+http://bananadoce.online:8080/baianopresente/723loweA77B/2241
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo HD" tvg-logo="https://logos.sologos.art/server/TNT%20HD.png" group-title="FILMES & SERIES",TNT Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1283
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo" tvg-logo="https://logos.sologos.art/server/TNT.png" group-title="FILMES & SERIES",TNT Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1234
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT LEG" tvg-logo="https://logos.sologos.art/server/TNT.png" group-title="LEGENDADOS",TNT LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/901860
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 1" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 1
+http://bananadoce.online:8080/baianopresente/723loweA77B/40623
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/40624
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 3" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 3
+http://bananadoce.online:8080/baianopresente/723loweA77B/40625
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 4" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 4
+http://bananadoce.online:8080/baianopresente/723loweA77B/40626
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 5
+http://bananadoce.online:8080/baianopresente/723loweA77B/40627
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 6" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 6
+http://bananadoce.online:8080/baianopresente/723loweA77B/40628
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 7" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 7
+http://bananadoce.online:8080/baianopresente/723loweA77B/40629
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 8" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 8
+http://bananadoce.online:8080/baianopresente/723loweA77B/40630
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 9" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 9
+http://bananadoce.online:8080/baianopresente/723loweA77B/896436
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 10
+http://bananadoce.online:8080/baianopresente/723loweA77B/896437
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://logos.sologos.art/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1816
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://logos.sologos.art/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2074
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="https://logos.sologos.art/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax
+http://bananadoce.online:8080/baianopresente/723loweA77B/2073
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD LEG" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="LEGENDADOS",HBO FHD LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/24781
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO LEG" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="LEGENDADOS",HBO LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/901855
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi HD LEG " tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="LEGENDADOS",HBO Mundi HD LEG 
+http://bananadoce.online:8080/baianopresente/723loweA77B/2344
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="LEGENDADOS",HBO Mundi LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/901856
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="LEGENDADOS",HBO Plus LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/901865
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="LEGENDADOS",HBO POP LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/2360
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Signature.png" group-title="LEGENDADOS",HBO Signature LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/901857
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="LEGENDADOS",HBO Xtreme LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/901858
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix LEG" tvg-logo="https://logos.sologos.art/server/Megapix.png" group-title="LEGENDADOS",Megapix LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/2362
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel" tvg-logo="https://logos.sologos.art/server/Paramount%20Channel.png" group-title="FILMES & SERIES",Paramount Channel
+http://bananadoce.online:8080/baianopresente/723loweA77B/2184
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="https://logos.sologos.art/server/Paramount%20Channel.png" group-title="FILMES & SERIES",Paramount Channel FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1859
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="https://logos.sologos.art/server/Paramount%20Channel.png" group-title="FILMES & SERIES",Paramount Channel HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2185
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network" tvg-logo="https://logos.sologos.art/server/Paramount%20Network.png" group-title="FILMES & SERIES",Paramount Network
+http://bananadoce.online:8080/baianopresente/723loweA77B/901883
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network FHD" tvg-logo="https://logos.sologos.art/server/Paramount%20Network.png" group-title="FILMES & SERIES",Paramount Network FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/901881
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network HD" tvg-logo="https://logos.sologos.art/server/Paramount%20Network.png" group-title="FILMES & SERIES",Paramount Network HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/901882
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel FHD" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1814
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2069
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel
+http://bananadoce.online:8080/baianopresente/723loweA77B/2068
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel LEG" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="LEGENDADOS",Sony Channel LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/901854
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD" tvg-logo="https://logos.sologos.art/server/Space%20HD.png" group-title="FILMES & SERIES",Space FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1862
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://logos.sologos.art/server/Space%20HD.png" group-title="FILMES & SERIES",Space HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2217
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="https://logos.sologos.art/server/Space.png" group-title="FILMES & SERIES",Space
+http://bananadoce.online:8080/baianopresente/723loweA77B/2216
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space LEG" tvg-logo="https://logos.sologos.art/server/Space.png" group-title="LEGENDADOS",Space LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/901859
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal" tvg-logo="https://logos.sologos.art/server/Studio%20Universal.png" group-title="FILMES & SERIES",Studio Universal
+http://bananadoce.online:8080/baianopresente/723loweA77B/2221
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="https://logos.sologos.art/server/Studio%20Universal%20HD.png" group-title="FILMES & SERIES",Studio Universal FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1863
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="https://logos.sologos.art/server/Studio%20Universal%20HD.png" group-title="FILMES & SERIES",Studio Universal HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2222
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD " tvg-logo="https://logos.sologos.art/server/TCM.png" group-title="FILMES & SERIES",TCM FHD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/47726
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES & SERIES",TCM
+http://bananadoce.online:8080/baianopresente/723loweA77B/2225
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Action.png" group-title="LEGENDADOS",Telecine Action LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/2346
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Fun.png" group-title="LEGENDADOS",Telecine Fun LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/2348
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Pipoca.png" group-title="LEGENDADOS",Telecine Pipoca LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/2350
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Premium.png" group-title="LEGENDADOS",Telecine Premium LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/2352
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Touch.png" group-title="LEGENDADOS",Telecine Touch LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/2354
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT Novelas FHD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/908272
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT Novelas HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/908273
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT Novelas 
+http://bananadoce.online:8080/baianopresente/723loweA77B/908274
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="https://logos.sologos.art/server/TNT%20Se%CC%81ries.png" group-title="FILMES & SERIES",TNT Series FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1869
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://logos.sologos.art/server/TNT%20Se%CC%81ries.png" group-title="FILMES & SERIES",TNT Series HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2244
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://logos.sologos.art/server/TNT%20Se%CC%81ries.png" group-title="FILMES & SERIES",TNT Series
+http://bananadoce.online:8080/baianopresente/723loweA77B/2243
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series LEG" tvg-logo="https://logos.sologos.art/server/TNT%20Se%CC%81ries.png" group-title="LEGENDADOS",TNT Series LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/901861
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel FHD" tvg-logo="https://logos.sologos.art/server/Warner%20Channel%20HD.png" group-title="FILMES & SERIES",Warner Channel FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1874
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="https://logos.sologos.art/server/Warner%20Channel%20HD.png" group-title="FILMES & SERIES",Warner Channel HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2265
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel" tvg-logo="https://logos.sologos.art/server/Warner%20Channel.png" group-title="FILMES & SERIES",Warner Channel
+http://bananadoce.online:8080/baianopresente/723loweA77B/2264
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner HD LEG" tvg-logo="https://logos.sologos.art/server/Warner%20Channel%20HD.png" group-title="LEGENDADOS",Warner HD LEG
+http://bananadoce.online:8080/baianopresente/723loweA77B/2367
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="https://logos.sologos.art/server/Film%26Arts.png" group-title="FILMES & SERIES",Film & Arts
+http://bananadoce.online:8080/baianopresente/723loweA77B/2280
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1808
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2050
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet
+http://bananadoce.online:8080/baianopresente/723loweA77B/2049
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet Alternativo HD" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1288
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet Alternativo" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1177
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel%20HD.png" group-title="DISCOVERY",Discovery Channel FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1881
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel%20HD.png" group-title="DISCOVERY",Discovery Channel HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2082
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel.png" group-title="DISCOVERY",Discovery Channel
+http://bananadoce.online:8080/baianopresente/723loweA77B/2081
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel Alternativo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel%20HD.png" group-title="DISCOVERY",Discovery Channel Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1328
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel Alternativo" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel.png" group-title="DISCOVERY",Discovery Channel Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1126
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo%20HD.png" group-title="DISCOVERY",Discovery Turbo FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1824
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo%20HD.png" group-title="DISCOVERY",Discovery Turbo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2093
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo.png" group-title="DISCOVERY",Discovery Turbo
+http://bananadoce.online:8080/baianopresente/723loweA77B/2092
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo Alternativo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo%20HD.png" group-title="DISCOVERY",Discovery Turbo Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1292
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo Alternativo" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo.png" group-title="DISCOVERY",Discovery Turbo Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1129
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home&Health FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home&Health FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1820
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home&Health HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home&Health HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2086
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home&Health" tvg-logo="https://logos.sologos.art/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home&Health
+http://bananadoce.online:8080/baianopresente/723loweA77B/2085
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health Alternativo" tvg-logo="https://logos.sologos.art/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home & Health Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1127
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1819
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2084
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV " tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV 
+http://bananadoce.online:8080/baianopresente/723loweA77B/2083
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV Alternativo HD " tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV Alternativo HD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/46731
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV Alternativo " tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV Alternativo 
+http://bananadoce.online:8080/baianopresente/723loweA77B/46732
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery%20HD.png" group-title="DISCOVERY",Investigation Discovery FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1843
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery HD" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery%20HD.png" group-title="DISCOVERY",Investigation Discovery HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2152
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery.png" group-title="DISCOVERY",Investigation Discovery
+http://bananadoce.online:8080/baianopresente/723loweA77B/2151
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery Alternativo" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery.png" group-title="DISCOVERY",Investigation Discovery Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1200
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery Alternativo HD" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery%20HD.png" group-title="DISCOVERY",Investigation Discovery Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1320
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20World%20HD.png" group-title="DISCOVERY",Discovery World FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1825
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World HD" tvg-logo="https://logos.sologos.art/server/Discovery%20World%20HD.png" group-title="DISCOVERY",Discovery World HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1309
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World" tvg-logo="https://logos.sologos.art/server/Discovery%20World.png" group-title="DISCOVERY",Discovery World
+http://bananadoce.online:8080/baianopresente/723loweA77B/2094
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Theater%20HD.png" group-title="DISCOVERY",Discovery Theater FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1823
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Theater%20HD.png" group-title="DISCOVERY",Discovery Theater HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2091
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater" tvg-logo="https://logos.sologos.art/server/Discovery%20Theater.png" group-title="DISCOVERY",Discovery Theater
+http://bananadoce.online:8080/baianopresente/723loweA77B/2090
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater Alternativo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Theater%20HD.png" group-title="DISCOVERY",Discovery Theater Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1286
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Science%20HD.png" group-title="DISCOVERY",Discovery Science FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1822
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science" tvg-logo="https://logos.sologos.art/server/Discovery%20Science.png" group-title="DISCOVERY",Discovery Science
+http://bananadoce.online:8080/baianopresente/723loweA77B/2089
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science Alternativo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Science%20HD.png" group-title="DISCOVERY",Discovery Science Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1335
+#EXTINF:-1 tvg-id="history.br" tvg-name="History FHD" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel%20HD.png" group-title="DOCUMENTÁRIOS",History FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1842
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel%20HD.png" group-title="DOCUMENTÁRIOS",History HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2150
+#EXTINF:-1 tvg-id="history.br" tvg-name="History" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel.png" group-title="DOCUMENTÁRIOS",History
+http://bananadoce.online:8080/baianopresente/723loweA77B/2149
+#EXTINF:-1 tvg-id="" tvg-name="History Alternativo HD" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel%20HD.png" group-title="DOCUMENTÁRIOS",History Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1272
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Alternativo" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel.png" group-title="DOCUMENTÁRIOS",History Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1145
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD" tvg-logo="https://logos.sologos.art/server/H2%20HD.png" group-title="DOCUMENTÁRIOS",H2 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1838
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="https://logos.sologos.art/server/H2%20HD.png" group-title="DOCUMENTÁRIOS",H2 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2138
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2" tvg-logo="https://logos.sologos.art/server/H2.png" group-title="DOCUMENTÁRIOS",H2
+http://bananadoce.online:8080/baianopresente/723loweA77B/2137
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 Alternativo HD" tvg-logo="https://logos.sologos.art/server/H2%20HD.png" group-title="DOCUMENTÁRIOS",H2 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1316
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 Alternativo" tvg-logo="https://logos.sologos.art/server/H2.png" group-title="DOCUMENTÁRIOS",H2 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1144
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida FHD" tvg-logo="https://logos.sologos.art/server/Rede%20Vida.png" group-title="RELIGIOSOS",Rede Vida FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1911
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="https://logos.sologos.art/server/Rede%20Vida.png" group-title="RELIGIOSOS",Rede Vida HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2273
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida" tvg-logo="https://logos.sologos.art/server/Rede%20Vida.png" group-title="RELIGIOSOS",Rede Vida
+http://bananadoce.online:8080/baianopresente/723loweA77B/2210
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova HD" tvg-logo="https://prinplay.com.br/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="RELIGIOSOS",Canção Nova HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1184
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova" tvg-logo="https://prinplay.com.br/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="RELIGIOSOS",Canção Nova
+http://bananadoce.online:8080/baianopresente/723loweA77B/2070
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="Novo Tempo HD " tvg-logo="https://logos.sologos.art/server/Novo%20Tempo.png" group-title="RELIGIOSOS",Novo Tempo HD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/21404
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="Novo Tempo" tvg-logo="https://logos.sologos.art/server/Novo%20Tempo.png" group-title="RELIGIOSOS",Novo Tempo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1212
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super HD" tvg-logo="https://logos.sologos.art/server/Rede%20Super.png" group-title="RELIGIOSOS",Rede Super HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1216
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super " tvg-logo="https://logos.sologos.art/server/Rede%20Super.png" group-title="RELIGIOSOS",Rede Super 
+http://bananadoce.online:8080/baianopresente/723loweA77B/1217
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT FHD " tvg-logo="https://logos.sologos.art/server/Rede%20CNT.png" group-title="RELIGIOSOS",Rede CNT FHD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/49702
+#EXTINF:-1 tvg-id="" tvg-name="Rede CNT HD " tvg-logo="https://logos.sologos.art/server/Rede%20CNT.png" group-title="RELIGIOSOS",Rede CNT HD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/49703
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT " tvg-logo="https://logos.sologos.art/server/Rede%20CNT.png" group-title="RELIGIOSOS",Rede CNT 
+http://bananadoce.online:8080/baianopresente/723loweA77B/42753
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="https://logos.sologos.art/server/TV%20Aparecida.png" group-title="RELIGIOSOS",TV Aparecida FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/902331
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida HD" tvg-logo="https://logos.sologos.art/server/TV%20Aparecida.png" group-title="RELIGIOSOS",TV Aparecida HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2248
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida" tvg-logo="https://logos.sologos.art/server/TV%20Aparecida.png" group-title="RELIGIOSOS",TV Aparecida
+http://bananadoce.online:8080/baianopresente/723loweA77B/902332
+#EXTINF:-1 tvg-id="" tvg-name="Rede 21" tvg-logo="https://logos.sologos.art/server/Rede%2021.png" group-title="RELIGIOSOS",Rede 21
+http://bananadoce.online:8080/baianopresente/723loweA77B/54456
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="Rede Gospel " tvg-logo="https://logos.sologos.art/server/Rede%20Gospel.png" group-title="RELIGIOSOS",Rede Gospel 
+http://bananadoce.online:8080/baianopresente/723loweA77B/61305
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV " tvg-logo="https://logos.sologos.art/server/RIT.png" group-title="RELIGIOSOS",RIT TV 
+http://bananadoce.online:8080/baianopresente/723loweA77B/54455
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar " tvg-logo="https://logos.sologos.art/server/TV%20Evangelizar.png" group-title="RELIGIOSOS",TV Evangelizar 
+http://bananadoce.online:8080/baianopresente/723loweA77B/49700
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno " tvg-logo="https://logos.sologos.art/server/TV%20Pai%20Eterno.png" group-title="RELIGIOSOS",TV Pai Eterno 
+http://bananadoce.online:8080/baianopresente/723loweA77B/49701
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="https://logos.sologos.art/server/Cartoon%20Network%20HD.png" group-title="INFANTIS",Cartoon Network FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1815
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://logos.sologos.art/server/Cartoon%20Network%20HD.png" group-title="INFANTIS",Cartoon Network HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2072
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network'" tvg-logo="https://logos.sologos.art/server/Cartoon%20Network.png" group-title="INFANTIS",Cartoon Network'
+http://bananadoce.online:8080/baianopresente/723loweA77B/2071
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Kids%20HD.png" group-title="INFANTIS",Discovery Kids FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1821
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Kids%20HD.png" group-title="INFANTIS",Discovery Kids HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2088
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids" tvg-logo="https://logos.sologos.art/server/Discovery%20Kids.png" group-title="INFANTIS",Discovery Kids
+http://bananadoce.online:8080/baianopresente/723loweA77B/2087
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="https://logos.sologos.art/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1857
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="https://logos.sologos.art/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2181
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="https://logos.sologos.art/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon
+http://bananadoce.online:8080/baianopresente/723loweA77B/2180
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr FHD" tvg-logo="https://logos.sologos.art/server/Nick%20Jr.%20HD.png" group-title="INFANTIS",Nick Jr FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1856
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="https://logos.sologos.art/server/Nick%20Jr.%20HD.png" group-title="INFANTIS",Nick Jr HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2179
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://logos.sologos.art/server/Nick%20Jr..png" group-title="INFANTIS",Nick Jr
+http://bananadoce.online:8080/baianopresente/723loweA77B/2178
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="https://logos.sologos.art/server/Gloobinho.png" group-title="INFANTIS",Gloobinho FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1836
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://logos.sologos.art/server/Gloobinho.png" group-title="INFANTIS",Gloobinho HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2133
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho" tvg-logo="https://logos.sologos.art/server/Gloobinho.png" group-title="INFANTIS",Gloobinho
+http://bananadoce.online:8080/baianopresente/723loweA77B/2134
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="https://logos.sologos.art/server/Gloob.png" group-title="INFANTIS",Gloob FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1889
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://logos.sologos.art/server/Gloob.png" group-title="INFANTIS",Gloob HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2132
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob" tvg-logo="https://logos.sologos.art/server/Gloob.png" group-title="INFANTIS",Gloob
+http://bananadoce.online:8080/baianopresente/723loweA77B/2131
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum FHD" tvg-logo="https://logos.sologos.art/server/TV%20Ra%CC%81%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1871
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://logos.sologos.art/server/TV%20Ra%CC%81%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2254
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum" tvg-logo="https://logos.sologos.art/server/TV%20Ra%CC%81%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum
+http://bananadoce.online:8080/baianopresente/723loweA77B/2253
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD" tvg-logo="https://logos.sologos.art/server/Cartoonito.png" group-title="INFANTIS",Cartoonito FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/901866
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://logos.sologos.art/server/Cartoonito.png" group-title="INFANTIS",Cartoonito HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/901867
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://logos.sologos.art/server/Cartoonito.png" group-title="INFANTIS",Cartoonito
+http://bananadoce.online:8080/baianopresente/723loweA77B/901868
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="https://logos.sologos.art/server/Tooncast.png" group-title="INFANTIS",Tooncast
+http://bananadoce.online:8080/baianopresente/723loweA77B/2245
+#EXTINF:-1 tvg-id="" tvg-name="Dumdum HD " tvg-logo="https://i.postimg.cc/3xNjwBbp/Dum-Dum-logo-svg.png" group-title="INFANTIS",Dumdum HD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/45260
+#EXTINF:-1 tvg-id="" tvg-name="Dumdum" tvg-logo="https://i.postimg.cc/3xNjwBbp/Dum-Dum-logo-svg.png" group-title="INFANTIS",Dumdum
+http://bananadoce.online:8080/baianopresente/723loweA77B/2293
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" group-title="INFANTIS",Adult Swim FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/933257
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" group-title="INFANTIS",Adult Swim HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/933258
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" group-title="INFANTIS",Adult Swim
+http://bananadoce.online:8080/baianopresente/723loweA77B/933259
+#EXTINF:-1 tvg-id="24HFilmes" tvg-name="[24h] 007 James Bond" tvg-logo="https://i.postimg.cc/66DhNYKY/images-9.jpg" group-title="FILMES 24H",[24h] 007 James Bond
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268217
+#EXTINF:-1 tvg-id="24HSeries" tvg-name="[24h] Febre do Ouro" tvg-logo="https://image.tmdb.org/t/p/w780/c1OqEWauZnYhzpWYSN5DTV0L9Uj.jpg" group-title="MARATONA 24H",[24h] Febre do Ouro
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268214
+#EXTINF:-1 tvg-id="24HProgramasdeTV" tvg-name="[24h] Aeroporto: Área Restrita" tvg-logo="https://image.tmdb.org/t/p/w780/wHyjp9QUy4pIf7fuseprEz2S8RE.jpg" group-title="MARATONA 24H",[24h] Aeroporto: Área Restrita
+http://bananadoce.online:8080/baianopresente/723loweA77B/1267016
+#EXTINF:-1 tvg-id="24HProgramasdeTV" tvg-name="[24h] Policia 24 Horas" tvg-logo="https://i.postimg.cc/RZHHmVtK/5b49263419de1.webp" group-title="MARATONA 24H",[24h] Policia 24 Horas
+http://bananadoce.online:8080/baianopresente/723loweA77B/1267015
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Round 6" tvg-logo="https://www.themoviedb.org/t/p/w1280/6gcHdboppvplmBWxvROc96NJnmm.jpg" group-title="MARATONA 24H",[24h] Round 6
+http://bananadoce.online:8080/baianopresente/723loweA77B/1269087
+#EXTINF:-1 tvg-id="24HSeries" tvg-name="[24h] NCIS Havai" tvg-logo="https://image.tmdb.org/t/p/w780/umQMuK0eWy5lVVOg2COeOJ0rjDf.jpg" group-title="MARATONA 24H",[24h] NCIS Havai
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268212
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Secreta do Meu Marido Milionário (reelshort)" tvg-logo="https://images2.imgbox.com/b5/7b/HUehrCVC_o.jpg" group-title="REELSHORT 24H",A Vida Secreta do Meu Marido Milionário (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268188
+#EXTINF:-1 tvg-id="" tvg-name="A Ceo Secreta (reelshort)" tvg-logo="https://www.themoviedb.org/t/p/w1280/5XkSG71VRX3USuKp25OOewGWIQ4.jpg" group-title="REELSHORT 24H",A Ceo Secreta (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268187
+#EXTINF:-1 tvg-id="" tvg-name="A Chefa não Finge Mais (reelshort)" tvg-logo="https://images2.imgbox.com/ec/75/MCL9ZB2Y_o.jpg" group-title="REELSHORT 24H",A Chefa não Finge Mais (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268186
+#EXTINF:-1 tvg-id="" tvg-name="A Dama Chefe da Traída a Amada (reelshort)" tvg-logo="https://cplay.live/wp-content/uploads/2025/04/DAMA-768x981.jpg" group-title="REELSHORT 24H",A Dama Chefe da Traída a Amada (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268185
+#EXTINF:-1 tvg-id="" tvg-name="A Doce Esposa  Gravida Mimada Pelo meu Marido Milionario (reelshort)" tvg-logo="https://static-media.hotmart.com/dZm2wUYhzkzqSTnadkNR0J3HNFM=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/0c2f31c7-015e-409b-8e0b-8814713ca939/DOCEESPOSA768x1024.jpg?w=920" group-title="REELSHORT 24H",A Doce Esposa  Gravida Mimada Pelo meu Marido Milionario (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268184
+#EXTINF:-1 tvg-id="" tvg-name="A Esposa XXL do Prefeito seu Retorno Incrível (reelshort)" tvg-logo="https://static-media.hotmart.com/MpKfdZfqOjQ3iXBmYj72sqSfqIw=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/29a41055-5a67-4679-adb5-7ac1da19fb29/IMG20250619WA01121.jpg?w=920" group-title="REELSHORT 24H",A Esposa XXL do Prefeito seu Retorno Incrível (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268183
+#EXTINF:-1 tvg-id="" tvg-name="A Herdeira Bilionária Divorciada (reelshort)" tvg-logo="https://dcdn-us.mitiendanube.com/stores/002/598/168/products/photo_2024-07-20_18-48-24-e1dabe9c8c72c805c117215238620060-1024-1024.webp" group-title="REELSHORT 24H",A Herdeira Bilionária Divorciada (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268182
+#EXTINF:-1 tvg-id="" tvg-name="Alma Gêmea indesejada (reelshort)" tvg-logo="https://cplay.live/wp-content/uploads/2025/04/img0024.jpg" group-title="REELSHORT 24H",Alma Gêmea indesejada (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268180
+#EXTINF:-1 tvg-id="" tvg-name="Amantes Inimigos (reelshort)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y1OWMwNDctMmNmMy00NmE1LThkMWYtMzQzNTI0NjA4NjQ1XkEyXkFqcGc@._V1_QL75_UY266_CR10,0,180,266_.jpg" group-title="REELSHORT 24H",Amantes Inimigos (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268179
+#EXTINF:-1 tvg-id="" tvg-name="Amor a Primeira Vista (reelshort)" tvg-logo="https://cplay.live/wp-content/uploads/2024/11/ScreenShot_20241113191000.png" group-title="REELSHORT 24H",Amor a Primeira Vista (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268178
+#EXTINF:-1 tvg-id="" tvg-name="A Incrivel Cecilia (reelshort)" tvg-logo="" group-title="REELSHORT 24H",A Incrivel Cecilia (reelshort)
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268181
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Grey's Anatomy S01 a S04" tvg-logo="https://www.themoviedb.org/t/p/w1280/Als9Xo4MoZxJeMenHtNLOoBzqwT.jpg" group-title="MARATONA 24H",[24h] Grey's Anatomy S01 a S04
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268939
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Grey's Anatomy S05 a S10" tvg-logo="https://www.themoviedb.org/t/p/w1280/Als9Xo4MoZxJeMenHtNLOoBzqwT.jpg" group-title="MARATONA 24H",[24h] Grey's Anatomy S05 a S10
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268940
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Grey's Anatomy S11 a S15" tvg-logo="https://www.themoviedb.org/t/p/w1280/Als9Xo4MoZxJeMenHtNLOoBzqwT.jpg" group-title="MARATONA 24H",[24h] Grey's Anatomy S11 a S15
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268941
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Grey's Anatomy S16 a S21" tvg-logo="https://www.themoviedb.org/t/p/w1280/Als9Xo4MoZxJeMenHtNLOoBzqwT.jpg" group-title="MARATONA 24H",[24h] Grey's Anatomy S16 a S21
+http://bananadoce.online:8080/baianopresente/723loweA77B/1268942
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Scooby-Doo! Mistério S/A" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" group-title="DESENHOS 24H",[24h] Scooby-Doo! Mistério S/A
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242384
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 90 Dias Para Ficar Milionário" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5A3XUbCr7hcCylesLVklErVpR8m.jpg" group-title="MARATONA 24H",[24h] 90 Dias Para Ficar Milionário
+http://bananadoce.online:8080/baianopresente/723loweA77B/1243509
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 90 Dias Para Casar: A Última Chance" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDbN6rxAx85IiDAOieJmIMtQw8V.jpg" group-title="MARATONA 24H",[24h] 90 Dias Para Casar: A Última Chance
+http://bananadoce.online:8080/baianopresente/723loweA77B/1243508
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] X-Men" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pHpgvAC1FwSIC2THfuCO6mAoGa2.jpg" group-title="DESENHOS 24H",[24h] X-Men
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242382
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Wolverine e os X-Men" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg" group-title="DESENHOS 24H",[24h] Wolverine e os X-Men
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242380
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Ursinhos Carinhosos e Seus Primos" tvg-logo="https://media.fstatic.com/Dp5l075MKNckZVm4NJDJvd93V1E=/210x312/smart/filters:format(webp)/media/movies/covers/2015/11/care-bears-and-cousins_tNone.jpg" group-title="DESENHOS 24H",[24h] Ursinhos Carinhosos e Seus Primos
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242377
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ursinhos Carinhosos: Bem-Vindos à Terra do Carinho" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sw7RiKBKcaY8zpN9YzJTkTpEsNK.jpg" group-title="DESENHOS 24H",[24h] Ursinhos Carinhosos: Bem-Vindos à Terra do Carinho
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242376
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Uma Família da Pesada S17-S20" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egxsrJV7cPlrGat4cq4OoX6TZkJ.jpg" group-title="DESENHOS 24H",[24h] Uma Família da Pesada S17-S20
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242375
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Uma Família da Pesada S13-S16" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="DESENHOS 24H",[24h] Uma Família da Pesada S13-S16
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242374
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Uma Família da Pesada S09-S12" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4J3QIr0IQNnDcDsMomVkaeCBJP.jpg" group-title="DESENHOS 24H",[24h] Uma Família da Pesada S09-S12
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242373
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Uma Família da Pesada S05-S08" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egxsrJV7cPlrGat4cq4OoX6TZkJ.jpg" group-title="DESENHOS 24H",[24h] Uma Família da Pesada S05-S08
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242372
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Uma Família da Pesada S01-S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="DESENHOS 24H",[24h] Uma Família da Pesada S01-S04
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242371
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Ultraman" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3X5njpZ8obsEZcoxtgW3KckQrex.jpg" group-title="DESENHOS 24H",[24h] Ultraman
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242369
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Ultimate Homem-Aranha" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aoZxQsP5qbWYM5ziXDK5bNpuhyi.jpg" group-title="DESENHOS 24H",[24h] Ultimate Homem-Aranha
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242368
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Três Espiãs Demais" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5z5NiXdx7z30ZLzthaEyjY6asvF.jpg" group-title="DESENHOS 24H",[24h] Três Espiãs Demais
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242367
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Transformers: War for Cybertron" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/76N0zN2B95ZNDHoffOmcKGdBlkc.jpg" group-title="DESENHOS 24H",[24h] Transformers: War for Cybertron
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242364
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Transformers: A Centelha da Terra" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ceoc00NQ3YPA1fycgFD7OiqDLkR.jpg" group-title="DESENHOS 24H",[24h] Transformers: A Centelha da Terra
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242362
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] O Show de Tom e Jerry" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t0VTMU4UI8XlaryymvNKjnD1TXc.jpg" group-title="DESENHOS 24H",[24h] O Show de Tom e Jerry
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242361
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Tico e Teco: Vida no Parque" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aXrdr6zutJyr0r2yDWOlhYqIk5t.jpg" group-title="DESENHOS 24H",[24h] Tico e Teco: Vida no Parque
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242360
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Tico e Teco: Defensores da Lei" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6eZcg9v5bIZ1sc6TxtfOl5fFg89.jpg" group-title="DESENHOS 24H",[24h] Tico e Teco: Defensores da Lei
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242359
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] ThunderCats S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6TO2Ma9S6lhlZaXRNH7OVuPwh0U.jpg" group-title="DESENHOS 24H",[24h] ThunderCats S02
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242358
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] O Show dos Looney Tunes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uov5Y98rJvjCq8TfqNmKHXMVLU3.jpg" group-title="DESENHOS 24H",[24h] O Show dos Looney Tunes
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242355
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Super Wings" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gvHwUZOivDtwCUB48Wdnx5BO2Vp.jpg" group-title="DESENHOS 24H",[24h] Super Wings
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242352
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Super Strikas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nx2OyMPYJZlgvK29mjovqy4WYnJ.jpg" group-title="DESENHOS 24H",[24h] Super Strikas
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242351
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Super Choque" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/CAzxjYTUQoq2jeUnn0z6BugdIP.jpg" group-title="DESENHOS 24H",[24h] Super Choque
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242350
+#EXTINF:-1 tvg-id="" tvg-name="[24h] South Park S21-S26" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="DESENHOS 24H",[24h] South Park S21-S26
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242348
+#EXTINF:-1 tvg-id="" tvg-name="[24h] South Park S16-S20" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="DESENHOS 24H",[24h] South Park S16-S20
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242347
+#EXTINF:-1 tvg-id="" tvg-name="[24h] South Park S11-S15" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="DESENHOS 24H",[24h] South Park S11-S15
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242346
+#EXTINF:-1 tvg-id="" tvg-name="[24h] South Park S06-S10" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="DESENHOS 24H",[24h] South Park S06-S10
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242345
+#EXTINF:-1 tvg-id="" tvg-name="[24h] South Park S01-S05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="DESENHOS 24H",[24h] South Park S01-S05
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242344
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Sonic Boom" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Dyz0Lw5vbffyq90kLjL5scPs9C.jpg" group-title="DESENHOS 24H",[24h] Sonic Boom
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242343
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Snoopy no Espaço" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2paY29KtHEnUgL6KGG3BwIuwTz.jpg" group-title="DESENHOS 24H",[24h] Snoopy no Espaço
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242342
+#EXTINF:-1 tvg-id="" tvg-name="[24h] She-Ra: A Princesa do Poder" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qRfuxL9T1tm2ZJzcl8utcdXEoOa.jpg" group-title="DESENHOS 24H",[24h] She-Ra: A Princesa do Poder
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242341
+#EXTINF:-1 tvg-id="" tvg-name="[24h] She-Ra e as Princesas do Poder" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg" group-title="DESENHOS 24H",[24h] She-Ra e as Princesas do Poder
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242340
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Samurai X S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYBFkIAlFCup6IqGXAvVwUHHwjG.jpg" group-title="DESENHOS 24H",[24h] Samurai X S02
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242339
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Samurai X S01" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYBFkIAlFCup6IqGXAvVwUHHwjG.jpg" group-title="DESENHOS 24H",[24h] Samurai X S01
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242338
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Cavaleiros do Zodíaco: Alma de Ouro" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39qqUS2EDpiYGfkshiUZ69K61Uq.jpg" group-title="DESENHOS 24H",[24h] Os Cavaleiros do Zodíaco: Alma de Ouro
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242337
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Sailor Moon" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hyfSukfADyehwwoIYuXHVJLhFqB.jpg" group-title="DESENHOS 24H",[24h] Sailor Moon
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242336
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Rick e Morty" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg" group-title="DESENHOS 24H",[24h] Rick e Morty
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242333
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Rambo: Coleção" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sYeBbEYNRL2SgSpr97lhuHU6OqT.jpg" group-title="DESENHOS 24H",[24h] Rambo: Coleção
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242330
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Pocoyo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="DESENHOS 24H",[24h] Pocoyo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242327
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] PJ Masks: Heróis de Pijama S05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hXHFx69vCEHgXD4mT1HcuOahgp.jpg" group-title="DESENHOS 24H",[24h] PJ Masks: Heróis de Pijama S05
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242326
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] PJ Masks: Heróis de Pijama S03-S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hXHFx69vCEHgXD4mT1HcuOahgp.jpg" group-title="DESENHOS 24H",[24h] PJ Masks: Heróis de Pijama S03-S04
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242325
+#EXTINF:-1 tvg-id="" tvg-name="[24h] PJ Masks: Heróis de Pijama S01-S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hXHFx69vCEHgXD4mT1HcuOahgp.jpg" group-title="DESENHOS 24H",[24h] PJ Masks: Heróis de Pijama S01-S02
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242324
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Pequeno Príncipe e Seus Amigos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gzEPtTooxBfaABRvHptJZuibisT.jpg" group-title="DESENHOS 24H",[24h] Pequeno Príncipe e Seus Amigos
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242322
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Peppa Pig" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVaiv0S34JnRKHnYkEiObOI15k5.jpg" group-title="DESENHOS 24H",[24h] Peppa Pig
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242321
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Patrulha Canina S03-S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2NXgGy5K4gLMt3dm0tUnoDIkPlc.jpg" group-title="DESENHOS 24H",[24h] Patrulha Canina S03-S04
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242320
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] Patrulha Canina S01-S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2NXgGy5K4gLMt3dm0tUnoDIkPlc.jpg" group-title="DESENHOS 24H",[24h] Patrulha Canina S01-S02
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242319
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Simpsons S28-S35" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="DESENHOS 24H",[24h] Os Simpsons S28-S35
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242316
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Simpsons S19-S27" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="DESENHOS 24H",[24h] Os Simpsons S19-S27
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242315
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Simpsons S10-S18" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="DESENHOS 24H",[24h] Os Simpsons S10-S18
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242314
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Simpsons S01-S09" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="DESENHOS 24H",[24h] Os Simpsons S01-S09
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242313
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Jetsons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4jpNQBhVcUfSS7MkrEwaNjZlHJj.jpg" group-title="DESENHOS 24H",[24h] Os Jetsons
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242312
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Flintstones" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8jT1ZpG1ybQyLmYMfgpvTaJLrS0.jpg" group-title="DESENHOS 24H",[24h] Os Flintstones
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242311
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Cavaleiros do Zodíaco: The Lost Canvas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2KFlvSkrPVj64PGDzdCYPTiTiMg.jpg" group-title="DESENHOS 24H",[24h] Os Cavaleiros do Zodíaco: The Lost Canvas
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242310
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Cavaleiros do Zodíaco: Saint Seiya" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j39p6zfHETY2O8nakbOHcwcMxay.jpg" group-title="DESENHOS 24H",[24h] Os Cavaleiros do Zodíaco: Saint Seiya
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242309
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Operação Big Hero: A Série" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oZPe5DKfxAJxo4X9TvOKxz37Q5N.jpg" group-title="DESENHOS 24H",[24h] Operação Big Hero: A Série
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242308
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Surfista Prateado" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lhkt2MQhyoh2eLl71hewOjxMWKn.jpg" group-title="DESENHOS 24H",[24h] O Surfista Prateado
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242307
+#EXTINF:-1 tvg-id="24HDesenhos" tvg-name="[24h] O Show do Scooby-Doo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1mW7Putrg3aDfLwdDrNp87J5Wiz.jpg" group-title="DESENHOS 24H",[24h] O Show do Scooby-Doo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242306
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Show do Garfield" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zowh0nbBuXFTzDCAVsTfKdIH7JD.jpg" group-title="DESENHOS 24H",[24h] O Show do Garfield
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242305
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Príncipe Dragão" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/toU4TDWAdP6PEkyozFgiFoVzb5U.jpg" group-title="DESENHOS 24H",[24h] O Príncipe Dragão
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242303
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Novo Pica-Pau" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg" group-title="DESENHOS 24H",[24h] O Novo Pica-Pau
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242302
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Máskara: A Série Animada" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bOmWfBKD7ommflceQOccCKXjSh0.jpg" group-title="DESENHOS 24H",[24h] O Máskara: A Série Animada
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242301
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Chefinho: De Volta aos Negócios" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vbMwQXDGhdFdE4BT6FUhtLyEWSj.jpg" group-title="DESENHOS 24H",[24h] O Chefinho: De Volta aos Negócios
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242298
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mundo Bita" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/19xWCmiOlwKKpTXBibmAkaLKT1q.jpg" group-title="DESENHOS 24H",[24h] Mundo Bita
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242297
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mr. Bean: A Série Animada" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg" group-title="DESENHOS 24H",[24h] Mr. Bean: A Série Animada
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242296
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Miraculous: As Aventuras de Ladybug S03-S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU0Tr9JATpxUgmBc6EHaLhSiNWG.jpg" group-title="DESENHOS 24H",[24h] Miraculous: As Aventuras de Ladybug S03-S04
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242295
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Miraculous: As Aventuras de Ladybug S01-S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/24wf3O8SJeUSJJvDowQR5FDgHGO.jpg" group-title="DESENHOS 24H",[24h] Miraculous: As Aventuras de Ladybug S01-S02
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242294
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Megaman" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dg6zfgPFS1BzemrrEk6bbqXCuka.jpg" group-title="DESENHOS 24H",[24h] Megaman
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242292
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Masha e o Urso" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hRHWhBBrg5U3B0N5nUo91VPCkWX.jpg" group-title="DESENHOS 24H",[24h] Masha e o Urso
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242290
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Léo o caminhão" tvg-logo="https://i.imgur.com/7VRb3PM.jpeg" group-title="DESENHOS 24H",[24h] Léo o caminhão
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242289
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Larva" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDZ2rAmJ8mTojT929wTRMFKpv2L.jpg" group-title="DESENHOS 24H",[24h] Larva
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242288
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kamp Koral: Bob Esponja, Primeiros Anos!" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg" group-title="DESENHOS 24H",[24h] Kamp Koral: Bob Esponja, Primeiros Anos!
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242287
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Justiça Jovem" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7ZLVqaz3bS7zRwuXTwZwxZSFs7y.jpg" group-title="DESENHOS 24H",[24h] Justiça Jovem
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242286
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Star Trek: Subalternos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i7Em3r7KCyNfkOwMkyqN8UMvK8S.jpg" group-title="DESENHOS 24H",[24h] Star Trek: Subalternos
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242284
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Jonny Quest" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2KUXlkfGdUz8wKir0gznnXymsh.jpg" group-title="DESENHOS 24H",[24h] Jonny Quest
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242283
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Irmão do Jorel" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2GAzir4x9LBjf79TYqZAsJT7Irp.jpg" group-title="DESENHOS 24H",[24h] Irmão do Jorel
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242281
+#EXTINF:-1 tvg-id="" tvg-name="[24h] He-Man e os Mestres do Universo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2MZQ7GH4WfxeZYkuDGZD7H69X4L.jpg" group-title="DESENHOS 24H",[24h] He-Man e os Mestres do Universo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242277
+#EXTINF:-1 tvg-id="" tvg-name="[24h] He-Man e Os Defensores do Universo S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lqwqYAqdFw02kLEbcmfl2KpZ2tc.jpg" group-title="DESENHOS 24H",[24h] He-Man e Os Defensores do Universo S02
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242276
+#EXTINF:-1 tvg-id="" tvg-name="[24h] He-Man e Os Defensores do Universo S01" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lqwqYAqdFw02kLEbcmfl2KpZ2tc.jpg" group-title="DESENHOS 24H",[24h] He-Man e Os Defensores do Universo S01
+http://bananadoce.online:8080/baianopresente/723loweA77B/1242275
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes%20HD.png" group-title="PREMIERE",Premiere Clubes FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1898
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes%20HD.png" group-title="PREMIERE",Premiere Clubes HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2199
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes.png" group-title="PREMIERE",Premiere Clubes
+http://bananadoce.online:8080/baianopresente/723loweA77B/2198
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes 4k" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes%20HD.png" group-title="PREMIERE",Premiere Clubes 4k
+http://bananadoce.online:8080/baianopresente/723loweA77B/1277
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes.png" group-title="PREMIERE",Premiere Clubes Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1163
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1892
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2187
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/904121
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1273
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1157
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1893
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2189
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3
+http://bananadoce.online:8080/baianopresente/723loweA77B/2188
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1274
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1158
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1894
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2191
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4
+http://bananadoce.online:8080/baianopresente/723loweA77B/2190
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1275
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1214
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1895
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 HD" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2193
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5
+http://bananadoce.online:8080/baianopresente/723loweA77B/2192
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1276
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1159
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1896
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2195
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6
+http://bananadoce.online:8080/baianopresente/723loweA77B/2194
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/7945
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1160
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1897
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2197
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7
+http://bananadoce.online:8080/baianopresente/723loweA77B/2196
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/7946
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1161
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 8
+http://bananadoce.online:8080/baianopresente/723loweA77B/914936
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN FHD " tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN FHD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/1883
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN HD" tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2105
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil.png" group-title="ESPN",ESPN
+http://bananadoce.online:8080/baianopresente/723loweA77B/2104
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN FHD²
+http://bananadoce.online:8080/baianopresente/723loweA77B/13087
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1294
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Alternativo " tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil.png" group-title="ESPN",ESPN Alternativo 
+http://bananadoce.online:8080/baianopresente/723loweA77B/1193
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD " tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 FHD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/1887
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD " tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 HD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/2122
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4
+http://bananadoce.online:8080/baianopresente/723loweA77B/2121
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 FHD²
+http://bananadoce.online:8080/baianopresente/723loweA77B/13078
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1295
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 Alternativo" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 4 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1136
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 2 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1884
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 2 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2108
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn 2" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",Espn 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/2101
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%202.png" group-title="ESPN",ESPN 2 FHD²
+http://bananadoce.online:8080/baianopresente/723loweA77B/13090
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 2 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1311
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1130
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 FHD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1827
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2103
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3
+http://bananadoce.online:8080/baianopresente/723loweA77B/2102
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 3 FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN 3 FHD²
+http://bananadoce.online:8080/baianopresente/723loweA77B/13084
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1293
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo" tvg-logo="https://logos.sologos.art/server/ESPN.png" group-title="ESPN",ESPN 3 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1192
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1886
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2124
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5
+http://bananadoce.online:8080/baianopresente/723loweA77B/2123
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 FHD²
+http://bananadoce.online:8080/baianopresente/723loweA77B/13081
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1314
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 Alternativo" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 5 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1135
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 1 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/901876
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 1 HD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/898826
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 1
+http://bananadoce.online:8080/baianopresente/723loweA77B/898822
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 2 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/901877
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 2 HD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/898827
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/898823
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 3 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/901878
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 3 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/898828
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 3
+http://bananadoce.online:8080/baianopresente/723loweA77B/898824
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 4 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/901880
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 4 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/901879
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 4 
+http://bananadoce.online:8080/baianopresente/723loweA77B/898825
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video FHD 1
+http://bananadoce.online:8080/baianopresente/723loweA77B/77850
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video HD 1
+http://bananadoce.online:8080/baianopresente/723loweA77B/928881
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video 1
+http://bananadoce.online:8080/baianopresente/723loweA77B/905452
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video FHD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video FHD 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/77859
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video HD 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/928883
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/928884
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video 03
+http://bananadoce.online:8080/baianopresente/723loweA77B/77851
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video 04
+http://bananadoce.online:8080/baianopresente/723loweA77B/77858
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video Alternativo 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video Alternativo 1
+http://bananadoce.online:8080/baianopresente/723loweA77B/928882
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video Alternativo 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video Alternativo 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/928885
+#EXTINF:-1 tvg-id="" tvg-name="Max 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 1 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/915108
+#EXTINF:-1 tvg-id="" tvg-name="Max 1 " tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 1 
+http://bananadoce.online:8080/baianopresente/723loweA77B/71943
+#EXTINF:-1 tvg-id="" tvg-name="Max 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 2 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/915109
+#EXTINF:-1 tvg-id="" tvg-name="Max 2" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/64038
+#EXTINF:-1 tvg-id="" tvg-name="Max 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 3 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/915110
+#EXTINF:-1 tvg-id="" tvg-name="Max 3" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 3
+http://bananadoce.online:8080/baianopresente/723loweA77B/64039
+#EXTINF:-1 tvg-id="" tvg-name="Max 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 4 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/915111
+#EXTINF:-1 tvg-id="" tvg-name="Max 4" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 4
+http://bananadoce.online:8080/baianopresente/723loweA77B/64040
+#EXTINF:-1 tvg-id="" tvg-name="Max 5 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 5 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/915112
+#EXTINF:-1 tvg-id="" tvg-name="Max 5" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 5
+http://bananadoce.online:8080/baianopresente/723loweA77B/64041
+#EXTINF:-1 tvg-id="" tvg-name="Max 6 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 6 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/915113
+#EXTINF:-1 tvg-id="" tvg-name="Max 7 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 7 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/973565
+#EXTINF:-1 tvg-id="" tvg-name="Max 1 Alternativo " tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 1 Alternativo 
+http://bananadoce.online:8080/baianopresente/723loweA77B/898915
+#EXTINF:-1 tvg-id="" tvg-name="Max 2 Alternativo " tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 2 Alternativo 
+http://bananadoce.online:8080/baianopresente/723loweA77B/898916
+#EXTINF:-1 tvg-id="" tvg-name="Max 3 Alternativo " tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 3 Alternativo 
+http://bananadoce.online:8080/baianopresente/723loweA77B/898917
+#EXTINF:-1 tvg-id="" tvg-name="Max 4 Alternativo " tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 4 Alternativo 
+http://bananadoce.online:8080/baianopresente/723loweA77B/898918
+#EXTINF:-1 tvg-id="" tvg-name="Max 5 Alternativo" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 5 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/973566
+#EXTINF:-1 tvg-id="" tvg-name="Max 6 Alternativo" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 6 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/973567
+#EXTINF:-1 tvg-id="" tvg-name="Max 7 Alternativo" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 7 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/973568
+#EXTINF:-1 tvg-id="" tvg-name="Max 8 Alternativo" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 8 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/973569
+#EXTINF:-1 tvg-id="" tvg-name="Max 9 Alternativo" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 9 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/973570
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico Champions League" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Mosaico Champions League
+http://bananadoce.online:8080/baianopresente/723loweA77B/973574
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 1 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/902434
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 1 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/902435
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 1
+http://bananadoce.online:8080/baianopresente/723loweA77B/63979
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1 Alternativo " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 1 Alternativo 
+http://bananadoce.online:8080/baianopresente/723loweA77B/71852
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 2 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/902436
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 2 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/902437
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 2
+http://bananadoce.online:8080/baianopresente/723loweA77B/64557
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 2 Alternativo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 2 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/71853
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 3 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/914838
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 3
+http://bananadoce.online:8080/baianopresente/723loweA77B/64558
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 3 Alternativo " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 3 Alternativo 
+http://bananadoce.online:8080/baianopresente/723loweA77B/71854
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 4
+http://bananadoce.online:8080/baianopresente/723loweA77B/66580
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 5 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 5 
+http://bananadoce.online:8080/baianopresente/723loweA77B/66581
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://logos.sologos.art/server/DAZN.png" group-title="ESPORTES PPV",DAZN 1 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2303
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD " tvg-logo="https://logos.sologos.art/server/DAZN.png" group-title="ESPORTES PPV",DAZN 2 HD 
+http://bananadoce.online:8080/baianopresente/723loweA77B/2304
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://logos.sologos.art/server/DAZN.png" group-title="ESPORTES PPV",DAZN 3 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/20617
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 6 FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1828
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 HD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 6 HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2107
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 6
+http://bananadoce.online:8080/baianopresente/723loweA77B/2106
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD²" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 6 FHD²
+http://bananadoce.online:8080/baianopresente/723loweA77B/13093
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 Alternativo HD" tvg-logo="https://logos.sologos.art/server/ESPN%20HD.png" group-title="ESPN",ESPN 6 Alternativo HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1310
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 Alternativo" tvg-logo="https://logos.sologos.art/server/ESPN%2B.png" group-title="ESPN",ESPN 6 Alternativo
+http://bananadoce.online:8080/baianopresente/723loweA77B/1131
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD" tvg-logo="https://logos.sologos.art/server/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports FHD
+http://bananadoce.online:8080/baianopresente/723loweA77B/1812
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="https://logos.sologos.art/server/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports HD
+http://bananadoce.online:8080/baianopresente/723loweA77B/2060
